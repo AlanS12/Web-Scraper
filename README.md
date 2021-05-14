@@ -1,2 +1,1 @@
-# Web-Scraper
-Contains a program which is used to scrape data from a popular shopping site.
+This program scrapes data from a popular shopping site Decathlon using requests and BeautifulSoup modules from the python library.
